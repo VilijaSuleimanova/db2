@@ -1,8 +1,7 @@
-
 {
-    "kodas": "",
-    "kodas7s": "",
-    "pavadinimas": "",
-    "adresas": "",
-    "klaida": "Kazkokia klaida"
+   "kodas":"",
+   "kodas7s":"",
+   "pavadinimas":"",
+   "adresas":"",
+   "klaida":"Kazkokia klaida"
 }
